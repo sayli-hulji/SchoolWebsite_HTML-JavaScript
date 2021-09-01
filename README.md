@@ -1,2 +1,4 @@
 # SchoolWebsite_HTML-JavaScript
-A Project on School website using HTML, CSS, JavaScript and Bootstrap. It is a website where people can check details about the school like the facilities, events and activities etc. all the information you need to know is provided here. It is a responsive website, where one can drop in some doubts and queries. Animation is used to make the website aesthetically pleasing.
+This project is developed with the concept of schools/colleges having their own professional and business websites. Students get the idea of developing useful college and school sites for their skill orientation.
+This project is the complete website of a school specification where you can find lots of news regarding the facilities, events, activities, and so on. The user interface is attractive with a normal screen design so that users can easily search and fetch data. It is a responsive website, where one can drop in some doubts and queries.
+
